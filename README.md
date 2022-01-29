@@ -10,4 +10,4 @@ Prva scena je ona koja se prikazuje nakon pokretanja igre. Na njoj se nalaze dva
 
 
 # Pokretanje igre
-Unutar direktorija „*Pong*“ nalazi se „*Pong.exe*“ kojega je potrebno otvoriti. Nakon toga igra se pokreće klikom na „*Start*“. Prvi igrač se pomiče gore-dolje pritiskom na tipku „*W*“ odnosno „*S*“, dok se drugi igrač pomiče pritiskom na strjelicu „*Up*“ odnosno „*Down*“.
+Unutar direktorija „*Pong*“ nalazi se „*Pong.exe*“ kojega je potrebno otvoriti. Nakon toga igra se pokreće klikom na „*Start*“. Prvi igrač se pomiče gore-dolje pritiskom na tipku „*W*“ odnosno „*S*“, dok se drugi igrač pomiče pritiskom na tipku „*Up*“ odnosno „*Down*“.
