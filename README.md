@@ -1,4 +1,4 @@
-![Alt Text](gameplay.gif) 
+![Gameplay](gameplay.gif) 
 
 
 # Uvod
